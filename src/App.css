@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+.InputEl
+{
+  position: absolute;
+  bottom:50px;
+  font-family: 'Pangolin', cursive;
+  background-color:silver;
+  font-size: larger;
+}
+.ToDo
+{
+   
+  background:rgb(238, 231, 231);
+  position: absolute;
+  padding: 20px;
+  width: 200px;
+  height: auto;
+  top: 180px;
+  left:200px;
+  
+}
+.Doing
+{
+   
+  background:rgb(238, 231, 231);
+  position: absolute;
+  padding: 20px;
+  width: 200px;
+  height: 300px;
+  top: 180px;
+  left: 600px;
+  
+}
+.Done
+{
+   
+  background:rgb(238, 231, 231);
+  position: absolute;
+  padding: 20px;
+  width: 200px;
+  height: 300px;
+  top: 180px;
+  left:1000px;
+  
+}
+

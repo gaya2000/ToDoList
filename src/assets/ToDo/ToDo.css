@@ -1,0 +1,18 @@
+.ToDo
+{
+    border:1px solid;
+    padding: 10px;
+    height: 10px;
+    width:200px;
+    background-color: white;
+    border-radius:2px;
+    position: relative;
+    left:-15px;
+    text-align: center;
+    font-family: 'Pangolin', cursive;
+
+    font-size: medium;
+    
+
+    
+}
